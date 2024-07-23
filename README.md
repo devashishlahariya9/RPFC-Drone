@@ -7,6 +7,7 @@
 2. Low Cost
 3. Low Battery Warning
 4. Throttle Stick warning
+5. Transmitter Disconnected Warning
 
 Note: The RPFC-GRC version does not support the Auto-Level feature. Go to main branch for Auto-Level Code.
 
@@ -34,8 +35,9 @@ Note: The RPFC-GRC version does not support the Auto-Level feature. Go to main b
 #### Drone Unarmed:
 1. Blue LED ON After Connecting Battery: IMU Calbration under progress.
 2. Blue LED OFF and Green LED ON: IMU Calibration Complete, Drone Ready to Fly.
-3. Blue LED Blinking with delay of 250ms: Throttle Stick not in Lowest Position Warning.
-4. Blue LED Blinking with delay of 1sec: Battery LOW Warning, it is not possible to fly the Drone with this error. 
+3. Blue LED Blinking with delay of 100ms: Transmitter Disconnected Warning. 
+4. Blue LED Blinking with delay of 250ms: Throttle Stick not in Lowest Position Warning.
+5. Blue LED Blinking with delay of 1sec: Battery LOW Warning, it is not possible to fly the Drone with this error. 
 
 #### Drone Armed:
 1. Blue LED turns ON during Flight: Battery LOW Warning.
