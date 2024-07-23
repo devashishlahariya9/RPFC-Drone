@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2_common/cmsis",
+		"source" : "C:/DATA/Embedded Development/Drone Project/RPi_Pico_Flight_Controller/RPi_Pico_FC_v1.0.0/pico-sdk/src/rp2_common/cmsis"
+	}
+}
