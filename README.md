@@ -8,7 +8,7 @@
 3. Low Battery Warning
 4. Throttle Stick warning
 
-Note: The current version does not support the Auto-Level feature
+Note: The RPFC-GRC version does not support the Auto-Level feature. Go to main branch for Auto-Level Code.
 
 ### Steps to Make:
 1. Create the Schematic provided on a PCB (Refer the Image below)
