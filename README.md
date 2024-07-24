@@ -26,7 +26,7 @@ Note: The RPFC-GRC version does not support the Auto-Level feature. Go to main b
 
 4. Calibrate the ESCs.
 5. Connect a 3S LiPo 30/40C Battery and wait till only Green LED is ON.
-6. Arm the Drone by flipping the Channel 5 Switch with its Potentiometer set to lowest value.
+6. Arm the Drone by Placing the Throttle Stick in lowest position and yawing left for 1 sec (Unarm with Throttle Low and Yawing Right for 1 sec)
 7. Enjoy!
 
 **NOTE: DO NOT MOVE OR TOUCH THE DRONE DURING THE IMU CALIBRATION PROCEDURE THAT IS DONE 2 SECONDS AFTER CONNECTING THE BATTERY.**
